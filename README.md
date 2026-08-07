@@ -21,7 +21,7 @@ This project focuses on analyzing vendor performance based on sales data. It inv
 ```
 
 ## 🛠️ Tech Stack
-- **Languages**: Python (Pandas, Matplotlib, Seaborn)
+- **Languages**: Python,SQL (Pandas, Matplotlib, Seaborn)
 - **Tools**: Jupyter Notebook, Power BI, Excel
 - **Other**: PDF Reporting
 
